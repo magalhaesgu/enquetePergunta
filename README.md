@@ -10,6 +10,7 @@ Arquitetura
 + Spring Boot
 + Spring Cloud Config Client
 + Spring Cloud Sleuth
++ Spring Data JPA
 + Spring Cloud Netflix OSS Eureka
 + Lombok
 
